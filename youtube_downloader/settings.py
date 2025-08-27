@@ -27,7 +27,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', 'django-insecure-v*l(766^bhj41b%)4jr8q
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['yourdomain.com', 'www.yourdomain.com', '127.0.0.1', 'localhost'] # Replace with your actual domain(s)
+ALLOWED_HOSTS = ['https://youtube-downloader-1-n1d9.onrender.com', 'www.yourdomain.com', '127.0.0.1', 'localhost'] # Replace with your actual domain(s)
 
 
 # Application definition
